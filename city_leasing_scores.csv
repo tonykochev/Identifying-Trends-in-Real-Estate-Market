@@ -1,0 +1,4 @@
+city,state,leasedsf,overall_rent,availability_proportion,NAME,STNAME,POPESTIMATE2020,POPESTIMATE2023,pop_growth_rate,_merge,inv_availability,score
+clinton township,mi,0.0,20.5978535702324,0.243998832706408,Clinton township,Michigan,3757.0,3710.0,0.2274529583550512,both,0.0,0.09098118334202049
+clinton township,mi,0.0,20.5978535702324,0.243998832706408,Clinton township,Michigan,427.0,442.0,1.0,both,0.0,0.4
+new york,ny,1.0,77.43511617171801,0.16099835793809375,New York,New York,20104710.0,19571216.0,0.0,both,1.0,0.6000000000000001
